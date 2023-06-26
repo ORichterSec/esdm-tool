@@ -1,0 +1,14 @@
+{
+    "nixpkgs": {
+        "branch": "master",
+        "description": "Nix Packages collection & NixOS",
+        "homepage": "",
+        "owner": "ORichterSec",
+        "repo": "nixpkgs",
+        "rev": "0bbc27ab33052827a92ae26851df4d75eccedab1",
+        "sha256": "0wk7sg9jiix00if13ngczy87sg8cngcvqrpgqfrpn99j90lajg23",
+        "type": "tarball",
+        "url": "https://github.com/ORichterSec/nixpkgs/archive/0bbc27ab33052827a92ae26851df4d75eccedab1.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
